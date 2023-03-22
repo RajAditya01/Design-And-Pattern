@@ -1,4 +1,1 @@
-area();
-}
-
-class Circle extends Shape {
+FactoryPatternExample
