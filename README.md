@@ -3,7 +3,7 @@ This repository provides examples and explanations of various design patterns. D
 
 Each design pattern is implemented in multiple programming languages, including Java, Python, and C++. The repository serves as a reference guide for understanding and applying design patterns in different contexts.
 
-Pattern Categories
+# Pattern Categories
 The design patterns in this repository are organized into the following categories:
 
 Creational Patterns: These patterns focus on object creation mechanisms, helping you create objects in a manner suitable for the situation. Examples include Singleton, Factory Method, and Builder patterns.
@@ -12,7 +12,7 @@ Structural Patterns: These patterns deal with object composition and provide way
 
 Behavioral Patterns: These patterns focus on communication between objects and the assignment of responsibilities. Examples include Observer, Strategy, and Command patterns.
 
-List of Design Patterns
+#List of Design Patterns
 The repository currently includes the following design patterns:
 
 Singleton
